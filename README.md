@@ -65,3 +65,4 @@ Thanks for your attention!
 This program is an independent creation by a fan and doesn’t represent any official connection to White Wolf Inc., the creators behind World of Darkness games. Keep in mind, the copyrights on World of Darkness, White Wolf, the logo, and related symbols belong to White Wolf Inc.
 
 Tags: RPG, White Wolf, World of Darkness, Vampire the Masquerade, Werewolf the Apocalypse
+ 
