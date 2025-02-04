@@ -2,7 +2,12 @@
 Dice roller for World of Darkness, Vampire rpg (d10)
 
 # DICE VICE
-#### Video Demo:  https://youtu.be/n-SN4B9vlTM
+
+
+https://github.com/user-attachments/assets/e601868c-b991-4f3e-930b-68add972c954
+
+
+
 #### Description:
 
 Welcome to DICE VICE, an easy dice roller designed specifically for Vampire, Werewolf, and other World of Darkness games!
